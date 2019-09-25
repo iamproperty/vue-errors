@@ -1,0 +1,26 @@
+{
+  "name": "@iamproperty/vue-errors",
+  "description": "Use Laravel validation errors in Vue.",
+  "keywords": [
+    "Vue",
+    "Vuex",
+    "Laravel"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "James Fenwick",
+    "email": "james.fenwick@iamproperty.com"
+  },
+  "license": "UNLICENSED",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  },
+  "files": [
+    "src/**/*.js"
+  ]
+}
