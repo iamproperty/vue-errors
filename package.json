@@ -11,7 +11,11 @@
     "name": "James Fenwick",
     "email": "james.fenwick@iamproperty.com"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
+  "homepage": "https://github.com/iamproperty/vue-errors",
+  "bugs": {
+    "url": "https://github.com/iamproperty/vue-errors/issues"
+  },
   "type": "module",
   "main": "src/index.js",
   "scripts": {
